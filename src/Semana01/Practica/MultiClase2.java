@@ -12,5 +12,8 @@ public class MultiClase2 {
         MultiClase1 myCar = new MultiClase1();  // Creamos el objeto myCar
         myCar.fullthrottle();  //Llamamos al método fullThrottle();
         myCar.speed(320);  // Llamamos al método speed();
+
+
+        myCar.speed(354444);
     }
 }
