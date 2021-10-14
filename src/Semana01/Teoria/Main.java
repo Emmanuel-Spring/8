@@ -10,6 +10,9 @@ package Semana01.Teoria;
 public class Main {
     public static void main(String[] args) {
 
+        String nombre = "Emmanuel Antonio Nieto Muñoz";
+
+        System.out.println("nombre = " + nombre);
 
 
     }
