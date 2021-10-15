@@ -9,6 +9,7 @@ package Semana02.Teoria;
  */
 
 public class SentenciasDeControlIfElse {
+    public static void main(String[] args) {
 
-
+    }
 }
